@@ -1,2 +1,2 @@
 # whoknows
-Early version of Jquery Fianl
+Early version of Jquery Final
